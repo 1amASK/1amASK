@@ -1,7 +1,7 @@
 <h1 align="center">Hello There. . .</h1>
 
 <p align="center">
-  <i>I am ASK or, put simpler, 1amASK. I'm new to programming, and I've  begun learning Python on my off time. I'm pretty busy with my current job but, in the future, I'd like to work in cyber security.
+  <i>I am ASK or, put simpler, 1amASK (but also 1:00am ASK). I'm new to programming, and I've  begun learning Python on my off time. I'm pretty busy with my current job but, in the future, I'd like to work in cyber security.
   </i>
 </p>
 
