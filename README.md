@@ -1,4 +1,4 @@
-- 👋 Hi, 1 am ASK
+- 👋 Hi, I am ASK
 - 📫 Links ...
   - [Codewars](https://www.codewars.com/users/1amASK)
   - [Stack Overflow](https://stackoverflow.com/users/21972152/ask)
