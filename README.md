@@ -16,7 +16,7 @@
     <a href="https://github.com/1amASK">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=1amASK&hide_border=true&card_width=338&theme=transparent" />
     </a>
-    <a href="https://github.com/wervlad">
+    <a href="https://github.com/1amASK">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=1amASK&theme=transparent" />
     </a>
     <a href="https://github.com/1amASK">
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/1amASK">
-    <img src="https://komarev.com/ghpvc/?username=wervlad&color=blue&style=flat)" />
+    <img src="https://komarev.com/ghpvc/?username=1amASK&color=blue&style=flat)" />
   </a>
 </p>
 
