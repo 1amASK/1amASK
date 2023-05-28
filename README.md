@@ -8,6 +8,10 @@
 ### Languages:
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/1amASK)
 
+### OS:
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/1amASK)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/1amASK)
+
 <details>
   <p align="center">
     <a href="https://github.com/1amASK">
@@ -24,10 +28,6 @@
     </a>
   </p>
 </details>
-
-### OS:
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/1amASK)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/1amASK)
 
 <p align="center">
   <a href="https://github.com/1amASK">
